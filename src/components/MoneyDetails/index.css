@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.li {
+  display: flex;
+  align-items: center;
+  background-color: rgb(216, 216, 157);
+  border: 1px solid rgb(237, 140, 140);
+  border-radius: 8px;
+  justify-content: center;
+  width: 340px;
+}
+.img {
+  height: 30px;
+  width: 51px;
+  text-align: center;
+}
+.para {
+  color: balck;
+  font-weight: bold;
+  font-size: 'roboto';
+}

@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.div {
+  height: 100vh;
+  width: 100vw;
+}
+.moneydetailss {
+  display: flex;
+  padding: 10px;
+}
+.formandhistory {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 9px;
+  text-align: center;
+  justify-content: center;
+  height: 320px;
+  width: 300px;
+}
+.button {
+  background-color: rgb(249, 146, 2);
+  text-align: center;
+  height: 30px;
+  width: 60px;
+  color: red;
+  border-radius: 5px;
+  border: 1px solid burlywood;
+}
+.lii {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+.history {
+  display: flex;
+  flex-direction: column;
+
+  height: 400px;
+  width: 290px;
+  border-radius: 8px;
+  border: 2px solid black;
+}
